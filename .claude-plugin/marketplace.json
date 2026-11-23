@@ -1,0 +1,15 @@
+{
+	"name": "smileline",
+	"description": "Official Smileline dental practice CRM plugins for Claude — connect your clinic's front desk, patients, enquiries, appointments, messages, tasks and reports.",
+	"owner": {
+		"name": "SmileLine Technologies Ltd",
+		"email": "giulio@smileline.io"
+	},
+	"plugins": [
+		{
+			"name": "smileline",
+			"source": "./plugins/smileline",
+			"description": "Connect Claude to your Smileline dental practice CRM: manage today's calls and follow-up tasks, search patients and enquiries, book appointments, reply to patient messages, log call outcomes and read clinic reports."
+		}
+	]
+}

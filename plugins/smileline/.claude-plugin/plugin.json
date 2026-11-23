@@ -1,0 +1,35 @@
+{
+	"name": "smileline",
+	"displayName": "Smileline",
+	"version": "1.1.0",
+	"description": "Connect Claude to your Smileline dental practice CRM: manage today's calls and follow-up tasks, search patients and enquiries, book appointments, reply to patient messages, log call outcomes and read clinic reports.",
+	"author": {
+		"name": "SmileLine Technologies Ltd",
+		"email": "giulio@smileline.io",
+		"url": "https://smileline.io"
+	},
+	"homepage": "https://docs.smileline.io/guides/settings/ai-agents",
+	"repository": "https://github.com/smilelinecms/smileline-plugins",
+	"license": "MIT",
+	"keywords": [
+		"dental",
+		"dental-crm",
+		"dental-practice",
+		"dental-clinic",
+		"crm",
+		"front-desk",
+		"patients",
+		"enquiries",
+		"appointments",
+		"messages",
+		"tasks",
+		"reports",
+		"healthcare",
+		"smileline"
+	],
+	"icon": "./assets/icon.svg",
+	"documentationUrl": "https://docs.smileline.io/guides/settings/ai-agents",
+	"supportUrl": "https://smileline.io/legal/complaints",
+	"privacyPolicyUrl": "https://smileline.io/legal/privacy",
+	"termsOfServiceUrl": "https://smileline.io/legal/terms"
+}

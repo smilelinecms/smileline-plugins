@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"smileline": {
+			"type": "http",
+			"url": "https://mcp.smileline.io/mcp"
+		}
+	}
+}
